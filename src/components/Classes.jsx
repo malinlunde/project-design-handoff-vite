@@ -1,7 +1,16 @@
 import { useTranslation } from "react-i18next";
 
-export const Classes = () => {
+const Classes = () => {
+    const { t } = useTranslation("Classes");
 
+    return (
+        <section className="classes">
+            
+        </section>
+    );
 };
+
+
+
 
 export default Classes;
