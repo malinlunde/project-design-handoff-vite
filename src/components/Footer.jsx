@@ -11,6 +11,7 @@ const Footer = () => {
     const languageOptions = [
         { value: "en", label: "English" },
         { value: "se", label: "Swedish" },
+        
     ];
 
     const handleLanguageChange = (lng) => {

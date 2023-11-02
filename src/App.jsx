@@ -5,6 +5,7 @@ import Studios from "./components/Studios";
 import Classes from "./components/Classes";
 import Footer from "./components/Footer";
 import { useTranslation } from "react-i18next";
+import i18n from "./i18n";
 
 export const App = () => {
   return (
