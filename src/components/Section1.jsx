@@ -2,6 +2,7 @@ import { useTranslation } from "react-i18next";
 
 const Section1 = () => {
     const { t } = useTranslation("Section1");
+    console.log(t("title"));
 
     return (
         <section className="section1">

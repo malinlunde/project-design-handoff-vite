@@ -4,7 +4,6 @@ import Section2 from "./components/Section2";
 import Studios from "./components/Studios";
 import Classes from "./components/Classes";
 import Footer from "./components/Footer";
-import Translate from "./pages/Translate";
 import { useTranslation } from "react-i18next";
 
 export const App = () => {
@@ -16,7 +15,6 @@ export const App = () => {
     <Studios />
     <Classes />
     <Footer />
-    <Translate />
   </div>
   );
 };

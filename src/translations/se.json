@@ -6,13 +6,15 @@
         "title": "OMFAMNA SOLEN OCH HITTA DITT FLYT"
     },
     "Section2": {
-
+        "text1": "Hitta balans och harmoni på Sunshine Studio. Vi erbjuder klasser i yoga, pilates och meditation för att skapa en helhetsupplevelse som stärker kroppen och lugnar sinnet.",
+        "text2": "Våra lärare är skickliga och passionerade när det gäller att vägleda dig mot välbefinnande och inre frid.",
+        "getStartedButton": "Kom igång"
     },
     "Studios": {
-
+        "title": "STUDIOR"
     },
     "Classes": {
-
+        "title": "KLASSER"
     },
     "Footer": {
 

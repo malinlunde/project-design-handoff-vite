@@ -2,17 +2,22 @@
     "Header": {
 
     },
+    
     "Section1": {
         "title": "EMBRACE THE SUN AND FIND YOUR FLOW"
     },
-    "Section2": {
 
+    
+    "Section2": {
+        "text1": "Find balance and harmony at Sunshine Studio. We offer classes in yoga, pilates and meditation to create a holistic experience that strengthens the body and calms the mind.",
+        "text2": "Our teachers are skilled and passionate about guiding you towards wellness and inner peace.",
+        "getStartedButton": "Get Started"
     },
     "Studios": {
-
+        "title": "STUDIOS"
     },
     "Classes": {
-
+        "title": "CLASSES"
     },
     "Footer": {
 
